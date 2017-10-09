@@ -1,0 +1,19 @@
+{
+  "name": "survive.io",
+  "version": "1.0.0",
+  "description": "tile based survival game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "survival",
+    "tile"
+  ],
+  "author": "Jordan Jantschulev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.1",
+    "socket.io": "^2.0.3"
+  }
+}
